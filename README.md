@@ -10,7 +10,7 @@ This repository contains the hardware abstraction layer for our embedded system.
 - [Comms Protocal Verfication] (https://docs.google.com/document/d/1VqvTjgOvSTkCpAq9sKHqHGE2-HxdUukrGq42Ks9cUOc/edit?tab=t.0)
 
 ## Pin Assignments
-The pin assignments for the communication ports are customizable and can be updated as needed.
+The pin assignments should be done under gpio.h and can be updated as needed.
 
 ## Communication Ports:
 
