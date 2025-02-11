@@ -1,7 +1,7 @@
 #ifndef I2C_H
 #define I2C_H
 
-#include <Wire.h>
+#include <Wire.h> //Not added in the repository currently
 
 // Define I2C pins
 #define ICM20948_SCL_PIN 23  // SCL for ICM-20948 (Teensy Pin 23)
